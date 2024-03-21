@@ -10,6 +10,7 @@ And verify user has ablity to enter promocode and place the order
 Examples:
 	| Name |
 	| Tom |
+	| bea|
 					
  #cucumber.ansi-colors.disabled=  # true or false. default: false
 #cucumber.execution.dry-run=     # true or false. default: false
