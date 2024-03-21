@@ -11,6 +11,7 @@ Examples:
 	| Name |
 	| Tom |
 	| bea|
+	| car |
 					
  #cucumber.ansi-colors.disabled=  # true or false. default: false
 #cucumber.execution.dry-run=     # true or false. default: false
